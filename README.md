@@ -1,0 +1,3 @@
+- Hi, I'm Cyril Jacob. A web developer in the making.
+- GitHub has been an amazing resource in order to practice my skills
+- You can reach out to me on LinkedIn https://www.linkedin.com/in/thecyriljacob
