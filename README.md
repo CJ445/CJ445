@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cyril Jacob and I'm a Student from Coimbatore.</h2>
+<h2 align="left">Hi 👋! I am Cyril Jacob.</h2>
 
 ###
 
