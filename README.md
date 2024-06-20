@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thecyriljacob) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/thecyriljacob)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thecyriljacob) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/thecyriljacob)(https://twitter.com/intent/follow?screen_name=thecyriljacob)
 
 
 # 💻 Tech Stack:
