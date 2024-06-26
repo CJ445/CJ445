@@ -2,8 +2,7 @@
 🔭 I’m currently working on implementing the knowledge of AI in various fields<br>👯 I’m looking to collaborate on AI & ML projects<br>🤝 I’m looking for help with hackathon preparation <br>🌱 I’m currently learning Flutter and DSA<br>💬 Ask me about my internship experience<br>⚡ Fun fact: I like to practice competitive programming on CodeChef
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thecyriljacob) [![X (formerly Twitter)](https://img.shields.io/twitter/follow/thecyriljacob)](https://twitter.com/intent/follow?screen_name=thecyriljacob) [![Medium)](https://img.shields.io/badge/@Medium-000000)](https://medium.com/@thecyriljacob)
+## 🌐 Socials: [![X (formerly Twitter)](https://img.shields.io/twitter/follow/thecyriljacob)](https://twitter.com/intent/follow?screen_name=thecyriljacob) [![Medium)](https://img.shields.io/badge/@Medium-000000)](https://medium.com/@thecyriljacob)
 
 
 # 💻 Tech Stack:
