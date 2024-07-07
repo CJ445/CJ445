@@ -1,4 +1,4 @@
-# 👋 About Me:
+# 👋 Hey there, I'm Cyril!
 🔭 I’m currently working on implementing the knowledge of AI in various fields<br>👯 I’m looking to collaborate on AI & ML projects<br>🤝 I’m looking for help with hackathon preparation <br>🌱 I’m currently learning Flutter and DSA<br>💬 Ask me about my internship experience<br>⚡ Fun fact: I like to practice competitive programming on CodeChef
 
 
