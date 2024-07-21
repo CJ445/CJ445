@@ -4,6 +4,9 @@
    schedule:
      - cron: '* */24 * * *'
  jobs:
+   job-name:
+      permissions:
+         contents: write
    build:
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
