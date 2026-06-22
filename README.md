@@ -1,30 +1,196 @@
-# 👋 Hey there, I'm Cyril!
-🔭 I’m currently working on implementing the knowledge of AI in various fields<br>👯 I’m looking to collaborate on AI & ML projects<br>🤝 I’m looking for help with hackathon preparation <br>🌱 I’m currently learning Flutter and DSA<br>💬 Ask me about my internship experience<br>⚡ Fun fact: I like to practice competitive programming on CodeChef
 
 
-## 🌐 Socials: [![X (formerly Twitter)](https://img.shields.io/twitter/follow/thecyriljacob)](https://twitter.com/intent/follow?screen_name=thecyriljacob) [![Medium)](https://img.shields.io/badge/@Medium-000000)](https://medium.com/@thecyriljacob)
 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+# 👋 Hi, I'm Cyril Jacob
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cj445&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cj445&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cj445&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cj445&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### AI Infrastructure • MLOps • Computer Vision • Edge AI
+
+
+
+I'm a Computer Science (AI & ML) undergraduate passionate about building and deploying production-ready AI systems.
+
+
+
+* 🔭 Currently working on AI Infrastructure, MLOps, Computer Vision, and Edge AI
+
+* 🌱 Learning Kubernetes, Distributed Systems, and Cloud-Native AI Deployment
+
+* 🤝 Open to collaborating on Computer Vision, Multimodal AI, and MLOps projects
+
+* 🎯 Targeting AI/ML Engineering and MLOps internships for Jan 2027
+
+* ⚡ Interested in NVIDIA DeepStream, TensorRT, RAG Systems, Edge Computing, and AI Platform Engineering
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cj445&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/CJ445/CJ445/output/snake.svg" alt="Snake animation" />
+## 🚀 About Me
 
+
+
+* 🏆 Top 5 National Finalist (4th Place) — Bharatiya Antariksh Hackathon 2025 (ISRO)
+
+* 🚀 Grand Finalist — Smart India Hackathon 2025 (ISRO Problem Statement)
+
+* ☁️ Microsoft Certified: Azure Fundamentals
+
+* ❄️ SnowPro Associate Certified
+
+* 👨‍💻 Experience building production AI pipelines, CI/CD systems, cloud infrastructure, and computer vision solutions
+
+* 🎤 Campus Lead — Google Developer Groups On Campus
+
+
+
+---
+
+
+
+## 🌐 Connect With Me
+
+
+
+[LinkedIn](https://linkedin.com/in/thecyriljacob) •
+
+[GitHub](https://github.com/CJ445) •
+
+[Medium](https://medium.com/@thecyriljacob) •
+
+[X](https://twitter.com/thecyriljacob)
+
+
+
+---
+
+
+
+## 💻 Core Technologies
+
+
+
+### AI & Computer Vision
+
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge\&logo=opencv)
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+
+![DeepStream](https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+
+
+
+### Cloud & Infrastructure
+
+
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+
+
+
+### Backend & Data
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
+
+
+
+---
+
+
+
+## 📌 Featured Projects
+
+
+
+### 🚗 IoT Fleet Management Platform
+
+
+
+Distributed edge orchestration platform for remotely managing and monitoring Raspberry Pi fleets with OTA updates, telemetry, and observability.
+
+
+
+### 🎥 Real-Time Occupancy Analytics System
+
+
+
+Production-style video analytics platform built using NVIDIA DeepStream, Kafka, PostgreSQL, Docker, and Grafana.
+
+
+
+### 🔍 Multimodal Visual Search Engine
+
+
+
+CLIP-based image-text retrieval system indexing 20,000+ images with ChromaDB and HNSW optimization.
+
+
+
+### 🏗️ Construction AI Platform
+
+
+
+MLOps infrastructure, CI/CD pipelines, cloud deployment, and RAG-based workflows for AI-driven ERP systems.
+
+
+
+---
+
+
+
+## 📈 GitHub Stats
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=CJ445\&theme=tokyonight\&hide_border=true)
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CJ445\&theme=tokyonight\&hide_border=true)
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJ445\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+
+
+---
+
+
+
+## 🐍 Contribution Snake
+
+
+
+<img src="https://raw.githubusercontent.com/CJ445/CJ445/output/snake.svg" alt="snake animation" />
+ 
