@@ -78,89 +78,27 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building and dep
 
 
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge\&logo=opencv)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge\&logo=opencv)
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-
-![DeepStream](https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white) ![DeepStream](https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 
 
 
 ### Cloud & Infrastructure
 
-
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
 
 
 
 ### Backend & Data
 
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
 
 
 ---
 
-
-
-## 📌 Featured Projects
-
-
-
-### 🚗 IoT Fleet Management Platform
-
-
-
-Distributed edge orchestration platform for remotely managing and monitoring Raspberry Pi fleets with OTA updates, telemetry, and observability.
-
-
-
-### 🎥 Real-Time Occupancy Analytics System
-
-
-
-Production-style video analytics platform built using NVIDIA DeepStream, Kafka, PostgreSQL, Docker, and Grafana.
-
-
-
-### 🔍 Multimodal Visual Search Engine
-
-
-
-CLIP-based image-text retrieval system indexing 20,000+ images with ChromaDB and HNSW optimization.
-
-
-
-### 🏗️ Construction AI Platform
-
-
-
-MLOps infrastructure, CI/CD pipelines, cloud deployment, and RAG-based workflows for AI-driven ERP systems.
 
 
 
