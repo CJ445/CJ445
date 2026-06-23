@@ -78,9 +78,7 @@ I'm a Computer Science (AI & ML) undergraduate passionate about building and dep
 
 
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge\&logo=opencv)
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white) ![DeepStream](https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge\&logo=opencv) ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white) ![DeepStream](https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 
 
 
